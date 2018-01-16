@@ -1,2 +1,6 @@
-# gittest
-#yes i am already learned
+gittest
+yes i am already learned
+
+telst
+
+d f 
